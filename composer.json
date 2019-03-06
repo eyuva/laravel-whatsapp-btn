@@ -1,0 +1,33 @@
+{
+  "name": "eyuva/laravel-whatsapp-btn",
+  "description": "Laravel package to make click to chat whatsapp button",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vishal Sancheti",
+      "email": "mail@vishal.pro",
+      "homepage": "https://eyuva.com",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.5.9",
+    "laravel/framework": ">=5.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Eyuva\\WhatsappBtn\\": "src"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Eyuva\\WhatsappBtn\\WhatsappBtnServiceProvider"
+      ]
+    },
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  }
+}

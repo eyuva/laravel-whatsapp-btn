@@ -58,7 +58,7 @@ If you **Love It** then **Star It**
 **Contributors**
 -
 
-* [Vishal Sancheti](https://github.com/v1shky)
+* [Vishal Sancheti](https://github.com/vishal-sancheti)
 
 **License**
 -
